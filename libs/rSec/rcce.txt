@@ -1,0 +1,6 @@
+uname
+&&dir
+&&type
+C:\\boot.ini
+phpinfo()
+phpinfo

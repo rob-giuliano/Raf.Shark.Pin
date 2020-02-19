@@ -1,0 +1,24 @@
+/ws_ftp.ini
+/security.txt
+/database.sql.zip
+/user.txt
+/log.txt
+/password.txt
+/log/
+/logs/
+/backups/
+/config/
+/etc/
+/etc/certs/
+/db/
+/wwwboard/
+/ckeditor/
+/Download/
+/plesk-stat/
+/websys/webArch/mainFrame.cgi
+/vpnssl
+/svn/
+/bin/
+/bins/ arm
+/.env
+/.bashrc

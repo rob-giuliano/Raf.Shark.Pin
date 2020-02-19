@@ -1,0 +1,6 @@
+setuptools
+request
+urlvalidator
+http
+socket
+urllib

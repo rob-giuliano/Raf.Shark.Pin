@@ -1,0 +1,1 @@
+Incorrect syntax|Function|Syntax error|uname|&&dir|&&type|phpinfo()|Unknown column|where clause|prefix
