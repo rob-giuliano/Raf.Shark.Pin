@@ -26,9 +26,11 @@ Usage
 ------
 Open Terminal, - run this line:
  
-python3  rafstorm.py           ---->      (ver. python 3.6 +)
+python3  rafstorm.py
 
-python3  rafstorm.py -h         --->       help (Info about Project)
+python3  rafstorm.py -h 
+
+help (Info about Project)
 
 ================================================================
 
