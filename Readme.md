@@ -36,6 +36,14 @@ help (Info about Project)
 
 
 
+License & Copyright
+--------------------
+
+Licensed under the [MIT License](LICENSE)
+
+
+
+
 
 Donation Project
 ------------------
@@ -48,11 +56,5 @@ Bitcoin:        1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
 Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
 
 
-
-
-
-License
---------------
-RAF SHARK PIN software is released under the terms of the Gnu/Gpl.
 
 
