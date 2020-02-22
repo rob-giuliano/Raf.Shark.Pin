@@ -24,8 +24,8 @@ pip3 install -r requirements.txt
 
 Usage
 ------
-2. Open Terminal, run this line:
-
+Open Terminal, - run this line:
+ 
 python3  rafstorm.py           ---->      (ver. python 3.6 +)
 
 python3  rafstorm.py -h         --->       help (Info about Project)
